@@ -1,0 +1,1 @@
+I have faced no problems while preparing and completing this task Laboratory Work 5. The only thing in this work is that I had little pictures 1x1 fit into large ones 3x3 so I solve it by increasing yOffset coordinate before placing next liitle frame since yOffset coordinate of large ones pictures was zero for 2 and 3 columns in my case(variant). 
